@@ -3,7 +3,6 @@
 ```
 {
     "name": "권은지",
-    "age": 20,
     "phone": "010-6543-2971",
     "email": "panda.ohgiraffers@gmail.com"
 }
